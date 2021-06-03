@@ -95,11 +95,11 @@ Open the `index.html` file or you can use any local server (Live Server)
 
 > [`./serviceWorker.js`](https://github.com/Rohit19060/PWA-Template/blob/main/serviceWorker.js "Service Worker"): Service Worker File
 
-> [`./script.js`](https://github.com/Rohit19060/PWA-Template/blob/mainscript.js "Script"): Main Script File
+> [`./script.js`](https://github.com/Rohit19060/PWA-Template/blob/main/script.js "Script"): Main Script File
 
-> [`./index.html`](https://github.com/Rohit19060/PWA-Template/blob/index.html "Index"): Entry Point
+> [`./index.html`](https://github.com/Rohit19060/PWA-Template/blob/main/index.html "Index"): Entry Point
 
-> [`./style.css`](https://github.com/Rohit19060/PWA-Template/blob/style.css "Style"): Styles File
+> [`./style.css`](https://github.com/Rohit19060/PWA-Template/blob/main/style.css "Style"): Styles File
 
 ## 🎊 Future Updates
 
