@@ -1,0 +1,45 @@
+a {
+  text-decoration: none;
+}
+
+body {
+  margin: 50px auto;
+  font-weight: 400;
+  text-align: center;
+}
+
+h1 {
+  font-weight: lighter;
+  font-size: 50px;
+}
+
+button.accordion {
+  background: #dd1c1a;
+  color: #fff;
+  cursor: pointer;
+  border: 0px;
+  padding: 18px;
+  width: 70%;
+  text-align: left;
+  font-size: 18px;
+  transition: 0.4s;
+}
+
+button:focus {
+  outline: none;
+}
+
+button.accordion.active,
+button.accordion:hover {
+  background: #9b0a07;
+}
+
+div.panel {
+  padding: 0 18px;
+  color: #000;
+  max-height: 0;
+  overflow: hidden;
+  width: 67.45%;
+  margin: 0 auto;
+  transition: max-height 0.2s ease-out;
+}

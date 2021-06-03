@@ -1,0 +1,49 @@
+{
+    "name": "PWA Template",
+    "short_name": "PWA",
+    "icons": [
+        {
+            "src": "./images/Icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./images/Icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ],
+    "start_url": "/?source=pwa",
+    "background_color": "#000",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#000",
+    "orientation": "portrait-primary",
+    "shortcuts": [
+        {
+            "name": "Page 2",
+            "short_name": "Page 2",
+            "description": "Shortcut for Page 2",
+            "url": "./page-2.html/?source=pwa",
+            "icons": [
+                {
+                    "src": "./images/Icon-192.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                }
+            ]
+        }
+    ],
+    "description": "App for PWA Templating",
+    "manifestUrl": "./manifest.json",
+    "lang": "et",
+    "screenshots": [
+        {
+            "src": "./images/Screenshot1.png",
+            "type": "image/png",
+            "sizes": "720x461"
+        }
+    ]
+}
