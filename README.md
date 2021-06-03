@@ -30,7 +30,7 @@
 </a>
 </p>
 
-<p align="center" title="PWA Template"><img src="./images/screenshot1.png" alt="PWA Template"/></p>
+<p align="center" title="PWA Template"><img src="./images/Screenshot1.png" alt="PWA Template"/></p>
 
 <h2 align="center">🌐 Links 🌐</h2>
 <p align="center">
