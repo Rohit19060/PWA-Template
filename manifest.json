@@ -15,10 +15,10 @@
             "purpose": "any maskable"
         }
     ],
-    "start_url": "/?source=pwa",
+    "start_url": "./?source=pwa",
     "background_color": "#000",
     "display": "standalone",
-    "scope": "/",
+    "scope": "./",
     "theme_color": "#000",
     "orientation": "portrait-primary",
     "shortcuts": [
